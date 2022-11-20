@@ -1,1 +1,3 @@
-# Figures-OOP-WinForms-basic-prectice-
+# Figures-OOP-WinForms-basic-practice-
+
+#Проста програма для демонстрації практичного використання наслідування, абстрактних методів, написання тестів.
